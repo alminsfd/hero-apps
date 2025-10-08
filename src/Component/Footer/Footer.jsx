@@ -16,11 +16,12 @@ const Footer = () => {
                     </nav>
                     <nav>
                         <h6 className="footer-title">Services</h6>
-                        <a className="link link-hover">Branding</a>
-                        <a className="link link-hover">Design</a>
-                        <a className="link link-hover">Marketing</a>
-                        <a className="link link-hover">Advertisement</a>
-                        <a className="link link-hover">development</a>
+                        <a className="link link-hover">Mobile App Development (Android / iOS)</a>
+                        <a className="link link-hover">Web App Development</a>
+                        <a className="link link-hover">UI/UX Design</a>
+                        <a className="link link-hover">Backend & API Integration</a>
+                        <a className="link link-hover">App Store Optimization (ASO)</a>
+                        <a className="link link-hover">App Maintenance & Support</a>
                     </nav>
                     <nav>
                         <h6 className="footer-title">Company</h6>
