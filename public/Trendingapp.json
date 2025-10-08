@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "DocuVault",
+    "companyName": "SafeDocs",
+    "id": 17,
+    "description": "Securely store and organize your documents with encrypted cloud access.",
+    "size": 62,
+    "reviews": 1300,
+    "ratingAvg": 4.5,
+    "downloads": 570000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 610 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a",
+    "title": "DevTrack",
+    "companyName": "CodeVision",
+    "id": 18,
+    "description": "Track your software projects and collaborate with your team in real-time.",
+    "size": 85,
+    "reviews": 1900,
+    "ratingAvg": 4.6,
+    "downloads": 810000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1070 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    "title": "PetCare",
+    "companyName": "AnimalHub",
+    "id": 19,
+    "description": "Pet health tracker and appointment manager for vets and owners.",
+    "size": 48,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1564866657314-40d6b8e8a44d",
+    "title": "MovieBox",
+    "companyName": "StreamWorld",
+    "id": 20,
+    "description": "Watch movies and shows in HD quality with offline download support.",
+    "size": 120,
+    "reviews": 5200,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573496774426-1c2f90316b87",
+    "title": "LangPro",
+    "companyName": "LingoSoft",
+    "id": 21,
+    "description": "Learn new languages easily with AI tutors and voice recognition.",
+    "size": 58,
+    "reviews": 2600,
+    "ratingAvg": 4.8,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1810 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581091870627-3f3e3b88b1c1",
+    "title": "CryptoTrack",
+    "companyName": "BitWatch",
+    "id": 22,
+    "description": "Monitor cryptocurrency prices, charts, and portfolios in real-time.",
+    "size": 42,
+    "reviews": 1700,
+    "ratingAvg": 4.4,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1625461068069-b7b36b2c9fdd",
+    "title": "HomeEase",
+    "companyName": "SmartLiving",
+    "id": 23,
+    "description": "Control your smart home devices and monitor energy usage easily.",
+    "size": 88,
+    "reviews": 2400,
+    "ratingAvg": 4.6,
+    "downloads": 770000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1470 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1587620931286-76b0d43f2c7c",
+    "title": "Artify",
+    "companyName": "InspireLab",
+    "id": 24,
+    "description": "A creative art community where users can share and sell digital artwork.",
+    "size": 92,
+    "reviews": 3100,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1980 }
+    ]
+  }
+]
