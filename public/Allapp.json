@@ -1,165 +1,174 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
-    "title": "NoteMaster",
-    "companyName": "BrightApps Ltd",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHQ1tYDFw8In3ArE11fy-HfaGgjkh5fxd_w&s",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
     "id": 1,
-    "description": "A clean, simple note-taking app with cloud sync and markdown support.",
-    "size": 45,
-    "reviews": 1200,
-    "ratingAvg": 4.6,
-    "downloads": 500000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 300 },
-      { "name": "5 star", "count": 670 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1612831662375-295c1003d3ca",
-    "title": "TaskFlow",
-    "companyName": "Productive Co.",
-    "id": 2,
-    "description": "Task management app with daily goals, reminders, and collaboration tools.",
-    "size": 38,
-    "reviews": 980,
-    "ratingAvg": 4.4,
-    "downloads": 420000,
-    "ratings": [
-      { "name": "1 star", "count": 25 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 130 },
-      { "name": "4 star", "count": 350 },
-      { "name": "5 star", "count": 435 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1551817958-20204d6ab627",
-    "title": "FitTrack",
-    "companyName": "HealthSync",
-    "id": 3,
-    "description": "Track your workouts, calories, and progress with smart AI recommendations.",
-    "size": 52,
-    "reviews": 2100,
-    "ratingAvg": 4.8,
-    "downloads": 850000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 55 },
-      { "name": "3 star", "count": 170 },
-      { "name": "4 star", "count": 480 },
-      { "name": "5 star", "count": 1355 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1556742044-3c52d6e88c62",
-    "title": "FinanceGuru",
-    "companyName": "SmartBudget",
-    "id": 4,
-    "description": "A personal finance tracker that helps you plan and save effectively.",
-    "size": 60,
-    "reviews": 1500,
+    "description": "Connect with friends, share your moments, and stay updated with global trends.",
+    "size": 120,
+    "reviews": "9.8M",
     "ratingAvg": 4.5,
-    "downloads": 610000,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 780 }
-    ]
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4300 }
+    ],
+    "deepDescription": "WhatsApp is one of the world’s most widely used communication apps, designed to make messaging simple, secure, and fast. With end-to-end encryption, your chats and calls are protected from unauthorized access. It supports text, images, documents, voice notes, and video calls. You can also create groups, set statuses, and join communities to stay connected. WhatsApp Web allows access from your computer, ensuring smooth communication across devices. Whether for personal, educational, or business use, WhatsApp keeps billions of people in touch every day in a private, reliable, and efficient way."
   },
   {
-    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
-    "title": "PhotoSnap",
-    "companyName": "PixelCraft",
-    "id": 5,
-    "description": "Professional photo editing with AI filters and cloud gallery.",
-    "size": 85,
-    "reviews": 3500,
-    "ratingAvg": 4.7,
-    "downloads": 1200000,
-    "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 110 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 800 },
-      { "name": "5 star", "count": 2250 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-    "title": "CodeMate",
-    "companyName": "DevLabs",
-    "id": 6,
-    "description": "Code editor with live collaboration, syntax highlighting, and AI suggestions.",
-    "size": 95,
-    "reviews": 2100,
-    "ratingAvg": 4.9,
-    "downloads": 900000,
-    "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 130 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 1510 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1581092334543-23cbde3d9d1d",
-    "title": "Soundify",
-    "companyName": "MusicWave",
-    "id": 7,
-    "description": "Stream and download millions of songs with personalized playlists.",
-    "size": 72,
-    "reviews": 4800,
-    "ratingAvg": 4.3,
-    "downloads": 2000000,
-    "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 800 },
-      { "name": "4 star", "count": 1500 },
-      { "name": "5 star", "count": 2000 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4437d9",
-    "title": "EduLink",
-    "companyName": "LearnSmart",
-    "id": 8,
-    "description": "Online learning app with video lessons and quizzes from experts.",
-    "size": 65,
-    "reviews": 3200,
+    "image": "https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 2,
+    "description": "Share photos, stories, and short videos with your followers and explore new trends.",
+    "size": 90,
+    "reviews": "8.6M",
     "ratingAvg": 4.6,
-    "downloads": 1400000,
+    "downloads": "4B+",
     "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 400 },
-      { "name": "4 star", "count": 900 },
-      { "name": "5 star", "count": 1700 }
-    ]
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3700 }
+    ],
+    "deepDescription": "Instagram is a visually engaging social platform that allows users to share photos, videos, and stories with a global audience. It has become a space for creativity, inspiration, and digital expression. Through Reels, Stories, and Live features, users showcase their lifestyle and connect instantly. Businesses use Instagram for branding and promotion, while influencers grow communities through visual storytelling. The Explore tab lets users discover new trends and creators. From art to fashion, fitness to travel, Instagram connects people with passions and inspires creativity across the globe every single day."
   },
   {
+    "image": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/4a953b362d24032d2d825d791cc5771d",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 3,
+    "description": "Create and watch short, entertaining videos personalized just for you.",
+    "size": 75,
+    "reviews": "9.1M",
+    "ratingAvg": 4.7,
+    "downloads": "3.5B+",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4650 }
+    ],
+    "deepDescription": "TikTok is a short-form video platform that empowers creativity and self-expression through engaging content. Users can create, edit, and share videos with filters, effects, and trending music. The app’s intelligent algorithm curates a personalized feed based on individual interests, making every scroll fresh and exciting. From comedy and dance to education and art, TikTok hosts a wide variety of content. It has also become a global hub for influencers and brands to connect with audiences. With its dynamic community and endless trends, TikTok defines the new era of digital entertainment."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-X06O3ppyMhQotOP_Km27fpwe0FgZGqXiA&s",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 4,
+    "description": "Follow global news, trends, and share your thoughts instantly with the world.",
+    "size": 70,
+    "reviews": "7.2M",
+    "ratingAvg": 4.4,
+    "downloads": "2B+",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2700 }
+    ],
+    "deepDescription": "X, formerly known as Twitter, is a microblogging platform built for real-time information sharing and conversation. Users post short updates, share media, and interact through replies, reposts, and hashtags. It’s a space where global discussions unfold—from breaking news to entertainment, sports, and politics. Journalists, leaders, and everyday users use X to express opinions and engage with the world instantly. The app’s live feed and trending topics make it one of the fastest ways to stay informed. X continues to redefine modern communication through open dialogue and freedom of expression."
+  },
+  {
+    "image": "https://images.indianexpress.com/2023/05/youtube-logo-featured.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "Watch, share, and create videos — from tutorials to entertainment, all in one place.",
+    "size": 150,
+    "reviews": "10.5M",
+    "ratingAvg": 4.8,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5100 }
+    ],
+    "deepDescription": "YouTube is the world’s largest video-sharing platform where anyone can upload, watch, and share content for free. From music and gaming to tutorials and news, it offers endless entertainment and education. Creators can monetize channels through ads and memberships, building global audiences. With personalized recommendations, users always find videos matching their interests. YouTube Premium adds ad-free viewing and offline playback. The platform has transformed how people learn, entertain, and communicate. It’s not just a video site—it’s a community that connects billions of viewers and creators worldwide every day."
+  },
+  {
+    "image": "https://www.accountex.co.uk/london/wp-content/uploads/sites/2/2024/03/dima-solomin-upBKRmHJrCI-unsplash-2048x1365.jpg",
+    "title": "WhatsApp Business",
+    "companyName": "Meta Platforms",
+    "id": 6,
+    "description": "Send messages, voice notes, and make secure calls with friends and family worldwide.",
+    "size": 60,
+    "reviews": "9.5M",
+    "ratingAvg": 4.7,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ],
+    "deepDescription": "WhatsApp Business is designed for small and medium enterprises to connect with customers efficiently. It allows automated replies, quick responses, and product catalogs to enhance communication. Businesses can use the verified profile badge to build trust and professionalism. End-to-end encryption ensures that customer interactions remain secure. The app supports text, images, calls, and broadcasts for updates or offers. Whether for order tracking, support, or promotions, WhatsApp Business bridges the gap between companies and customers. Its reliability, simplicity, and global reach make it a must-have tool for modern digital communication."
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/d7/1b26d773-d3a9-1d2d-da5e-eac6b136ab4c/AppleWatch_Splash.png/300x0w.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Share quick photos and moments with friends that disappear after being viewed.",
+    "size": 85,
+    "reviews": "6.2M",
+    "ratingAvg": 4.3,
+    "downloads": "2.5B+",
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2150 }
+    ],
+    "deepDescription": "Snapchat is a multimedia messaging app focused on real-time communication and fun. Users can send photos and videos that disappear after being viewed, encouraging spontaneous sharing. With Stories, Bitmoji, and AR filters, Snapchat brings creativity into daily life. The app also includes Snap Map to locate friends and Discover for trending news. Snap Streaks reward daily interaction, making it engaging for younger audiences. It has evolved beyond messaging into a visual storytelling platform that mixes entertainment, privacy, and innovation, redefining how people connect in today’s fast-paced digital world."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5_tEHKN8Rg_3S7xhADDljY79KN0Cza1rOw&s",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 8,
+    "description": "Build your professional network, find jobs, and grow your career opportunities.",
+    "size": 95,
+    "reviews": "5.4M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 1900 }
+    ],
+    "deepDescription": "LinkedIn is the world’s leading professional networking platform where users connect with colleagues, employers, and industry experts. It enables career growth through job searching, skill development, and content sharing. Businesses use LinkedIn to recruit talent and promote their brand. The platform encourages professionals to showcase achievements, publish articles, and build reputations. LinkedIn Learning offers courses for personal and professional improvement. Whether you’re a student, freelancer, or CEO, LinkedIn helps you expand your opportunities and stay updated with global industry trends, making it an essential tool for career success."
+  },
+   {
     "image": "https://images.unsplash.com/photo-1557683316-973673baf926",
     "title": "DesignHub",
     "companyName": "CreativeBits",
     "id": 9,
     "description": "Create stunning UI designs with ready-made templates and color tools.",
     "size": 80,
-    "reviews": 1500,
+    "reviews": "1.5M",
     "ratingAvg": 4.5,
-    "downloads": 750000,
+    "downloads": "750K",
     "ratings": [
       { "name": "1 star", "count": 60 },
       { "name": "2 star", "count": 90 },
       { "name": "3 star", "count": 200 },
       { "name": "4 star", "count": 450 },
       { "name": "5 star", "count": 700 }
-    ]
+    ],
+    "deepDescription": "DesignHub is a powerful design tool that helps users create stunning user interfaces effortlessly. It provides a variety of templates, color schemes, icons, and typography options suitable for web and mobile projects. Beginners and professionals alike can use its intuitive tools to bring their creative visions to life. With collaboration features, multiple team members can work on projects simultaneously, ensuring efficiency and consistency. Whether designing apps, websites, or presentations, DesignHub offers an all-in-one platform for digital creativity. It simplifies complex design tasks, saving time while delivering professional-quality results for personal or business use."
   },
   {
     "image": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4",
@@ -168,16 +177,17 @@
     "id": 10,
     "description": "Video conferencing made simple — HD calls and real-time chat.",
     "size": 100,
-    "reviews": 2600,
+    "reviews": "2.6M",
     "ratingAvg": 4.2,
-    "downloads": 1700000,
+    "downloads": "1.7M",
     "ratings": [
       { "name": "1 star", "count": 180 },
       { "name": "2 star", "count": 250 },
       { "name": "3 star", "count": 500 },
       { "name": "4 star", "count": 800 },
       { "name": "5 star", "count": 870 }
-    ]
+    ],
+    "deepDescription": "Meetly is a user-friendly video conferencing platform designed to simplify online meetings and collaboration. It supports high-definition video and audio, real-time chat, screen sharing, and virtual backgrounds. Whether for business conferences, team collaboration, online classes, or personal calls, Meetly ensures smooth communication. Users can schedule, join, or host meetings easily from any device. Security features protect meetings and participant privacy, making it a reliable tool for professional environments. Its intuitive interface and performance-focused design enhance productivity while reducing technical complexity, making virtual communication efficient, reliable, and enjoyable."
   },
   {
     "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296",
@@ -186,16 +196,17 @@
     "id": 11,
     "description": "Get accurate local weather updates, forecasts, and alerts.",
     "size": 30,
-    "reviews": 900,
+    "reviews": "900K",
     "ratingAvg": 4.1,
-    "downloads": 350000,
+    "downloads": "350K",
     "ratings": [
       { "name": "1 star", "count": 60 },
       { "name": "2 star", "count": 90 },
       { "name": "3 star", "count": 200 },
       { "name": "4 star", "count": 300 },
       { "name": "5 star", "count": 250 }
-    ]
+    ],
+    "deepDescription": "WeatherNow is a reliable weather application providing real-time updates, forecasts, and alerts. Users can check current conditions, hourly and daily forecasts, temperature, humidity, wind speed, and precipitation. Severe weather warnings keep people prepared and safe. The app’s interactive maps and radar provide visual insight into weather patterns. It also includes customizable notifications, allowing users to receive alerts relevant to their location. WeatherNow combines accuracy, simplicity, and speed, making it a go-to tool for individuals, travelers, and outdoor enthusiasts to plan their day effectively and stay informed about changing weather conditions."
   },
   {
     "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f",
@@ -204,16 +215,17 @@
     "id": 12,
     "description": "Discover recipes, order groceries, and track your nutrition goals.",
     "size": 70,
-    "reviews": 1800,
+    "reviews": "1.8M",
     "ratingAvg": 4.7,
-    "downloads": 890000,
+    "downloads": "890K",
     "ratings": [
       { "name": "1 star", "count": 40 },
       { "name": "2 star", "count": 60 },
       { "name": "3 star", "count": 180 },
       { "name": "4 star", "count": 500 },
       { "name": "5 star", "count": 1020 }
-    ]
+    ],
+    "deepDescription": "FoodBuddy is a comprehensive app for food lovers, offering recipes, meal planning, and grocery management. Users can browse thousands of recipes, track nutrition, and save favorites for easy access. The app also allows ordering groceries directly and monitoring dietary goals. With personalized recommendations based on preferences, FoodBuddy makes healthy eating accessible and enjoyable. Step-by-step instructions, cooking tips, and ingredient lists simplify meal preparation. Whether you are a beginner cook or an experienced chef, FoodBuddy helps manage your kitchen efficiently, explore new dishes, and maintain a balanced, nutritious lifestyle."
   },
   {
     "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
@@ -222,16 +234,17 @@
     "id": 13,
     "description": "Plan and book your next vacation with real-time deals and reviews.",
     "size": 90,
-    "reviews": 2500,
+    "reviews": "2.5M",
     "ratingAvg": 4.4,
-    "downloads": 1300000,
+    "downloads": "1.3M",
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 140 },
       { "name": "3 star", "count": 300 },
       { "name": "4 star", "count": 800 },
       { "name": "5 star", "count": 1160 }
-    ]
+    ],
+    "deepDescription": "TravelGo is an all-in-one travel app that helps users plan, book, and manage trips with ease. It provides real-time deals on flights, hotels, and activities, along with verified reviews from fellow travelers. The app allows itinerary management, ticket storage, and notifications for updates or changes. Personalized recommendations suggest destinations, attractions, and travel tips based on user preferences. TravelGo simplifies travel planning, reduces uncertainty, and makes vacations more enjoyable. With a user-friendly interface and reliable information, it helps travelers save time, avoid stress, and create memorable experiences wherever they go."
   },
   {
     "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
@@ -240,16 +253,17 @@
     "id": 14,
     "description": "Meditation and mindfulness app to reduce stress and improve sleep.",
     "size": 55,
-    "reviews": 2900,
+    "reviews": "2.9M",
     "ratingAvg": 4.8,
-    "downloads": 1100000,
+    "downloads": "1.1M",
     "ratings": [
       { "name": "1 star", "count": 30 },
       { "name": "2 star", "count": 50 },
       { "name": "3 star", "count": 150 },
       { "name": "4 star", "count": 400 },
       { "name": "5 star", "count": 2270 }
-    ]
+    ],
+    "deepDescription": "MindEase is a meditation and mindfulness application designed to reduce stress, improve sleep, and enhance mental wellbeing. It offers guided meditations, breathing exercises, sleep stories, and relaxation music. Users can track their progress, set daily reminders, and personalize sessions based on goals and experience level. The app helps users manage anxiety, improve focus, and cultivate a calmer mindset. MindEase’s interface is simple and calming, encouraging daily mindfulness practices. With expert guidance and evidence-based techniques, MindEase provides a holistic approach to mental health, helping users lead a balanced and more peaceful life."
   },
   {
     "image": "https://images.unsplash.com/photo-1611605698335-8b1569810433",
@@ -258,16 +272,17 @@
     "id": 15,
     "description": "Online shopping deals, coupons, and price tracking in one place.",
     "size": 75,
-    "reviews": 2200,
+    "reviews": "2.2M",
     "ratingAvg": 4.3,
-    "downloads": 1000000,
+    "downloads": "1M",
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 150 },
       { "name": "3 star", "count": 300 },
       { "name": "4 star", "count": 700 },
       { "name": "5 star", "count": 930 }
-    ]
+    ],
+    "deepDescription": "ShopSmart is a convenient shopping app that helps users find the best deals, coupons, and price comparisons online. It tracks products across multiple retailers, alerts users to discounts, and provides reviews to inform purchasing decisions. Personalized recommendations enhance the shopping experience by highlighting deals based on preferences. The app simplifies budget management and saves time by consolidating shopping information in one place. ShopSmart’s user-friendly interface ensures smooth browsing and checkout, making it an essential tool for online shoppers seeking value, efficiency, and convenience in their digital shopping experience."
   },
   {
     "image": "https://images.unsplash.com/photo-1557682250-33bd709cbe85",
@@ -276,15 +291,19 @@
     "id": 16,
     "description": "Get personalized breaking news alerts and trending stories worldwide.",
     "size": 40,
-    "reviews": 1600,
+    "reviews": "1.6M",
     "ratingAvg": 4.2,
-    "downloads": 670000,
+    "downloads": "670K",
     "ratings": [
       { "name": "1 star", "count": 80 },
       { "name": "2 star", "count": 100 },
       { "name": "3 star", "count": 300 },
       { "name": "4 star", "count": 500 },
       { "name": "5 star", "count": 620 }
-    ]
+    ],
+    "deepDescription": "NewsPulse is a comprehensive news application that delivers personalized alerts and trending stories from around the world. Users can access breaking news, local updates"
   }
+
 ]
+
+ 

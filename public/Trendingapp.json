@@ -1,146 +1,154 @@
 [
   {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
-    "title": "DocuVault",
-    "companyName": "SafeDocs",
-    "id": 17,
-    "description": "Securely store and organize your documents with encrypted cloud access.",
-    "size": 62,
-    "reviews": 1300,
-    "ratingAvg": 4.5,
-    "downloads": 570000,
-    "ratings": [
-      { "name": "1 star", "count": 45 },
-      { "name": "2 star", "count": 65 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 400 },
-      { "name": "5 star", "count": 610 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a",
-    "title": "DevTrack",
-    "companyName": "CodeVision",
-    "id": 18,
-    "description": "Track your software projects and collaborate with your team in real-time.",
-    "size": 85,
-    "reviews": 1900,
-    "ratingAvg": 4.6,
-    "downloads": 810000,
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 210 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 1070 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
-    "title": "PetCare",
-    "companyName": "AnimalHub",
-    "id": 19,
-    "description": "Pet health tracker and appointment manager for vets and owners.",
-    "size": 48,
-    "reviews": 800,
-    "ratingAvg": 4.3,
-    "downloads": 300000,
-    "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 50 },
-      { "name": "3 star", "count": 150 },
-      { "name": "4 star", "count": 250 },
-      { "name": "5 star", "count": 320 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1564866657314-40d6b8e8a44d",
-    "title": "MovieBox",
-    "companyName": "StreamWorld",
-    "id": 20,
-    "description": "Watch movies and shows in HD quality with offline download support.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHQ1tYDFw8In3ArE11fy-HfaGgjkh5fxd_w&s",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "id": 1,
+    "description": "Connect with friends, share your moments, and stay updated with global trends.",
     "size": 120,
-    "reviews": 5200,
-    "ratingAvg": 4.7,
-    "downloads": 3500000,
+    "reviews": "9.8M",
+    "ratingAvg": 4.5,
+    "downloads": "5B+",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 1300 },
-      { "name": "5 star", "count": 2700 }
-    ]
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4300 }
+    ],
+    "deepDescription": "WhatsApp is one of the world’s most widely used communication apps, designed to make messaging simple, secure, and fast. With end-to-end encryption, your chats and calls are protected from unauthorized access. It supports text, images, documents, voice notes, and video calls. You can also create groups, set statuses, and join communities to stay connected. WhatsApp Web allows access from your computer, ensuring smooth communication across devices. Whether for personal, educational, or business use, WhatsApp keeps billions of people in touch every day in a private, reliable, and efficient way."
   },
   {
-    "image": "https://images.unsplash.com/photo-1573496774426-1c2f90316b87",
-    "title": "LangPro",
-    "companyName": "LingoSoft",
-    "id": 21,
-    "description": "Learn new languages easily with AI tutors and voice recognition.",
-    "size": 58,
-    "reviews": 2600,
-    "ratingAvg": 4.8,
-    "downloads": 900000,
-    "ratings": [
-      { "name": "1 star", "count": 40 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 180 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 1810 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1581091870627-3f3e3b88b1c1",
-    "title": "CryptoTrack",
-    "companyName": "BitWatch",
-    "id": 22,
-    "description": "Monitor cryptocurrency prices, charts, and portfolios in real-time.",
-    "size": 42,
-    "reviews": 1700,
-    "ratingAvg": 4.4,
-    "downloads": 650000,
-    "ratings": [
-      { "name": "1 star", "count": 60 },
-      { "name": "2 star", "count": 90 },
-      { "name": "3 star", "count": 250 },
-      { "name": "4 star", "count": 500 },
-      { "name": "5 star", "count": 800 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1625461068069-b7b36b2c9fdd",
-    "title": "HomeEase",
-    "companyName": "SmartLiving",
-    "id": 23,
-    "description": "Control your smart home devices and monitor energy usage easily.",
-    "size": 88,
-    "reviews": 2400,
+    "image": "https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 2,
+    "description": "Share photos, stories, and short videos with your followers and explore new trends.",
+    "size": 90,
+    "reviews": "8.6M",
     "ratingAvg": 4.6,
-    "downloads": 770000,
+    "downloads": "4B+",
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 200 },
-      { "name": "4 star", "count": 600 },
-      { "name": "5 star", "count": 1470 }
-    ]
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3700 }
+    ],
+    "deepDescription": "Instagram is a visually engaging social platform that allows users to share photos, videos, and stories with a global audience. It has become a space for creativity, inspiration, and digital expression. Through Reels, Stories, and Live features, users showcase their lifestyle and connect instantly. Businesses use Instagram for branding and promotion, while influencers grow communities through visual storytelling. The Explore tab lets users discover new trends and creators. From art to fashion, fitness to travel, Instagram connects people with passions and inspires creativity across the globe every single day."
   },
   {
-    "image": "https://images.unsplash.com/photo-1587620931286-76b0d43f2c7c",
-    "title": "Artify",
-    "companyName": "InspireLab",
-    "id": 24,
-    "description": "A creative art community where users can share and sell digital artwork.",
-    "size": 92,
-    "reviews": 3100,
+    "image": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/4a953b362d24032d2d825d791cc5771d",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 3,
+    "description": "Create and watch short, entertaining videos personalized just for you.",
+    "size": 75,
+    "reviews": "9.1M",
     "ratingAvg": 4.7,
-    "downloads": 1000000,
+    "downloads": "3.5B+",
     "ratings": [
-      { "name": "1 star", "count": 70 },
-      { "name": "2 star", "count": 90 },
-      { "name": "3 star", "count": 260 },
-      { "name": "4 star", "count": 700 },
-      { "name": "5 star", "count": 1980 }
-    ]
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 4650 }
+    ],
+    "deepDescription": "TikTok is a short-form video platform that empowers creativity and self-expression through engaging content. Users can create, edit, and share videos with filters, effects, and trending music. The app’s intelligent algorithm curates a personalized feed based on individual interests, making every scroll fresh and exciting. From comedy and dance to education and art, TikTok hosts a wide variety of content. It has also become a global hub for influencers and brands to connect with audiences. With its dynamic community and endless trends, TikTok defines the new era of digital entertainment."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-X06O3ppyMhQotOP_Km27fpwe0FgZGqXiA&s",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 4,
+    "description": "Follow global news, trends, and share your thoughts instantly with the world.",
+    "size": 70,
+    "reviews": "7.2M",
+    "ratingAvg": 4.4,
+    "downloads": "2B+",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2700 }
+    ],
+    "deepDescription": "X, formerly known as Twitter, is a microblogging platform built for real-time information sharing and conversation. Users post short updates, share media, and interact through replies, reposts, and hashtags. It’s a space where global discussions unfold—from breaking news to entertainment, sports, and politics. Journalists, leaders, and everyday users use X to express opinions and engage with the world instantly. The app’s live feed and trending topics make it one of the fastest ways to stay informed. X continues to redefine modern communication through open dialogue and freedom of expression."
+  },
+  {
+    "image": "https://images.indianexpress.com/2023/05/youtube-logo-featured.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 5,
+    "description": "Watch, share, and create videos — from tutorials to entertainment, all in one place.",
+    "size": 150,
+    "reviews": "10.5M",
+    "ratingAvg": 4.8,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 5100 }
+    ],
+    "deepDescription": "YouTube is the world’s largest video-sharing platform where anyone can upload, watch, and share content for free. From music and gaming to tutorials and news, it offers endless entertainment and education. Creators can monetize channels through ads and memberships, building global audiences. With personalized recommendations, users always find videos matching their interests. YouTube Premium adds ad-free viewing and offline playback. The platform has transformed how people learn, entertain, and communicate. It’s not just a video site—it’s a community that connects billions of viewers and creators worldwide every day."
+  },
+  {
+    "image": "https://www.accountex.co.uk/london/wp-content/uploads/sites/2/2024/03/dima-solomin-upBKRmHJrCI-unsplash-2048x1365.jpg",
+    "title": "WhatsApp Business",
+    "companyName": "Meta Platforms",
+    "id": 6,
+    "description": "Send messages, voice notes, and make secure calls with friends and family worldwide.",
+    "size": 60,
+    "reviews": "9.5M",
+    "ratingAvg": 4.7,
+    "downloads": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ],
+    "deepDescription": "WhatsApp Business is designed for small and medium enterprises to connect with customers efficiently. It allows automated replies, quick responses, and product catalogs to enhance communication. Businesses can use the verified profile badge to build trust and professionalism. End-to-end encryption ensures that customer interactions remain secure. The app supports text, images, calls, and broadcasts for updates or offers. Whether for order tracking, support, or promotions, WhatsApp Business bridges the gap between companies and customers. Its reliability, simplicity, and global reach make it a must-have tool for modern digital communication."
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/d7/1b26d773-d3a9-1d2d-da5e-eac6b136ab4c/AppleWatch_Splash.png/300x0w.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Share quick photos and moments with friends that disappear after being viewed.",
+    "size": 85,
+    "reviews": "6.2M",
+    "ratingAvg": 4.3,
+    "downloads": "2.5B+",
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2150 }
+    ],
+    "deepDescription": "Snapchat is a multimedia messaging app focused on real-time communication and fun. Users can send photos and videos that disappear after being viewed, encouraging spontaneous sharing. With Stories, Bitmoji, and AR filters, Snapchat brings creativity into daily life. The app also includes Snap Map to locate friends and Discover for trending news. Snap Streaks reward daily interaction, making it engaging for younger audiences. It has evolved beyond messaging into a visual storytelling platform that mixes entertainment, privacy, and innovation, redefining how people connect in today’s fast-paced digital world."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5_tEHKN8Rg_3S7xhADDljY79KN0Cza1rOw&s",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 8,
+    "description": "Build your professional network, find jobs, and grow your career opportunities.",
+    "size": 95,
+    "reviews": "5.4M",
+    "ratingAvg": 4.5,
+    "downloads": "1B+",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 1900 }
+    ],
+    "deepDescription": "LinkedIn is the world’s leading professional networking platform where users connect with colleagues, employers, and industry experts. It enables career growth through job searching, skill development, and content sharing. Businesses use LinkedIn to recruit talent and promote their brand. The platform encourages professionals to showcase achievements, publish articles, and build reputations. LinkedIn Learning offers courses for personal and professional improvement. Whether you’re a student, freelancer, or CEO, LinkedIn helps you expand your opportunities and stay updated with global industry trends, making it an essential tool for career success."
   }
 ]

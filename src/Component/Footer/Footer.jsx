@@ -4,7 +4,7 @@ import { Link, NavLink } from 'react-router';
 const Footer = () => {
     return (
         <>
-            <footer className=" bg-[#001931] text-neutral-content p-10">
+            <footer className=" bg-[#001931] text-neutral-content p-10 mt-15">
                 <div className='footer sm:footer-horizontal' >
                     <nav>
                         <Link to='/' >
