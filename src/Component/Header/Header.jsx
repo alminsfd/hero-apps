@@ -1,4 +1,6 @@
 import React from 'react';
+import Logo from '../../assets/logo.png';
+import { Link, NavLink } from 'react-router';
 
 const Header = () => {
     return (
@@ -12,39 +14,33 @@ const Header = () => {
                         <ul
                             tabIndex={0}
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
-                            <li>
-                                <a>Parent</a>
-                                <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
-                                </ul>
-                            </li>
-                            <li><a>Item 3</a></li>
+                            <li><NavLink to='/'>Home</NavLink></li>
+                            <li><NavLink to='/app' >Apps</NavLink></li>
+                            <li><NavLink to='/install' >Installation</NavLink></li>
+
+
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">daisyUI</a>
+                    <Link to='/' >
+                        <div className='flex items-center md:ml-10 ' >
+                            <img src={Logo} className='h-[30px] mr-3' alt="" />
+                            <h3  className='font-bold text-lg  bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-transparent bg-clip bg-clip-text' >HERO.IO</h3>
+                        </div>
+                    </Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
-                        <li>
-                            <details>
-                                <summary>Parent</summary>
-                                <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li><a>Item 3</a></li>
+                    <ul className="menu menu-horizontal px-1 font-medium text-lg ">
+                        <li><NavLink to='/'>Home</NavLink></li>
+                        <li><NavLink to='/app' >Apps</NavLink></li>
+                        <li><NavLink to='/install' >Installation</NavLink></li>
+
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Button</a>
+                    <Link className='btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white  font-semibold text-lg md:mr-10 ' to='https://github.com/alminsfd'>Contribute</Link>
                 </div>
             </div>
-
+            
         </>
     );
 };
