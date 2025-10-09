@@ -4,9 +4,9 @@ import Singletopapp from '../../Component/Topapp/Singletopapp';
 
 const Appdetails = () => {
     const cards = useLoaderData()
-    const [search,setSearch]=useState('')
-    const words=search.trim().toLocaleLowerCase()
-    const filterWord=words?cards.filter(card=>card.title.toLocaleLowerCase().includes(words)):cards
+    const [search, setSearch] = useState('')
+    const words = search.trim().toLocaleLowerCase()
+    const filterWord = words ? cards.filter(card => card.title.toLocaleLowerCase().includes(words)) : cards
     return (
         <div className='mt-10 max-w-[1400px] mx-auto ' >
             <h1 className='font-bold md:text-5xl  text-2xl text-[#001931] text-center mb-3' >Our All Applications</h1>
@@ -26,14 +26,18 @@ const Appdetails = () => {
                             <path d="m21 21-4.3-4.3"></path>
                         </g>
                     </svg>
-                    <input  onChange={(e)=>setSearch(e.target.value)} type="search" required placeholder="Search" />
+                    <input onChange={(e) => setSearch(e.target.value)} type="search" required placeholder="Search" />
                 </label>
             </div>
             <div className='grid md:grid-cols-4 grid-cols-1 gap-5 cursor-pointer mt-15' >
                 {
-                    filterWord.length<=0?(<p>No app found</p>):(filterWord.map(card => <Singletopapp key={card.id} card={card} ></Singletopapp>))
+                    filterWord.length <= 0 ? (<div className='flex flex-col justify-center items-center ' >
+                        <p className='text-[#001931] text-5xl text-center font-bold ' >No app found</p>
+                    </div>) : (filterWord.map(card => <Singletopapp key={card.id} card={card} ></Singletopapp>))
                 }
+
             </div>
+
         </div>
     );
 };

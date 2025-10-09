@@ -6,6 +6,7 @@ import Appdetails from "../Pages/App/Appdetails";
 import Instolation from "../Pages/instolation/Instolation";
 import Page_error from "../Pages/Error/Page_error";
 import Moredetailsapp from "../Pages/Moredeatailsapp/Moredetailsapp";
+import Apperror from "../Pages/App/Apperror/Apperror";
  export const router = createBrowserRouter([
   {
     path: "/",
@@ -24,6 +25,7 @@ import Moredetailsapp from "../Pages/Moredeatailsapp/Moredetailsapp";
          {
             path:'/details/:appid',
             loader:()=>fetch('/Allapp.json'),
+            errorElement:<Apperror></Apperror>,
             Component:Moredetailsapp
          },
          {

@@ -13,10 +13,6 @@ const Moredetailsapp = () => {
     const moredetail = dates.find(data => data.id === appidNmber)
     const { image, companyName, size, reviews, downloads, ratingAvg, description, ratings, deepDescription } = moredetail
     const handlerBtn = () => {
-        // toast.success('✅ Successfully Installed!')', {
-        //     position: "top-center",
-        //     autoClose: 2000
-        // });
         toast.success(' Successfully Installed!')
         setIsDisable(true)
     }
