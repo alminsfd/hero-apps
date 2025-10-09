@@ -4,10 +4,9 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsive
 
 
 const Example = ({ratings}) => {
-    console.log(ratings)
   return (
       <div className='h-[400px] w-full mt-10' >
-        <h2 className='text-[#001931]  text-2xl font-bold mb-4 ' >Ratings</h2>
+        <h2 className='text-[#001931]  text-2xl font-bold mb-4 ml-8' >Ratings</h2>
         <ResponsiveContainer width="100%" height="100%">
         <BarChart
           width={500}
