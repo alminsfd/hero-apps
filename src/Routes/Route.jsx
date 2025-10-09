@@ -7,31 +7,33 @@ import Instolation from "../Pages/instolation/Instolation";
 import Page_error from "../Pages/Error/Page_error";
 import Moredetailsapp from "../Pages/Moredeatailsapp/Moredetailsapp";
 import Apperror from "../Pages/App/Apperror/Apperror";
- export const router = createBrowserRouter([
-  {
-    path: "/",
-    Component:Root,
-    errorElement:<Page_error></Page_error>,
-    children:[
-         { index: true, 
-        loader:()=>fetch('/Trendingapp.json'),
-         Component: Home 
-        },
+export const router = createBrowserRouter([
+   {
+      path: "/",
+      Component: Root,
+      errorElement: <Page_error></Page_error>,
+      children: [
          {
-            path:'/app',
-            loader:()=>fetch('/Allapp.json'),
-            Component:Appdetails
+            index: true,
+            loader: () => fetch('/Trendingapp.json'),
+            Component: Home
          },
          {
-            path:'/details/:appid',
-            loader:()=>fetch('/Allapp.json'),
-            errorElement:<Apperror></Apperror>,
-            Component:Moredetailsapp
+            path: '/app',
+            loader: () => fetch('/Allapp.json'),
+            Component: Appdetails
          },
          {
-            path:'/install',
+            path: '/details/:appid',
+            loader: () => fetch('/Allapp.json'),
+            errorElement: <Apperror></Apperror>,
+            Component: Moredetailsapp
+         },
+         {
+            path: '/install',
+            loader: () => fetch('/Allapp.json'),
             Component: Instolation
          }
-    ]
-  },
+      ]
+   },
 ]);

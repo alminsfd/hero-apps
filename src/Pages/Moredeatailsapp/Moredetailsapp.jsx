@@ -4,6 +4,7 @@ import { useLoaderData, useParams } from 'react-router';
 import Example from '../../Component/Ratinggraph/Ratings';
 import Description from '../../Component/Describtion/Description';
 import { toast } from 'react-toastify';
+import { addDataTolocal } from '../../localstorage/loacalstorage';
 
 const Moredetailsapp = () => {
     const [isDisable, setIsDisable] = useState(false)
@@ -11,10 +12,13 @@ const Moredetailsapp = () => {
     const appidNmber = parseInt(appid)
     const dates = useLoaderData()
     const moredetail = dates.find(data => data.id === appidNmber)
-    const { image, companyName, size, reviews, downloads, ratingAvg, description, ratings, deepDescription } = moredetail
-    const handlerBtn = () => {
+    const { image, companyName, size, reviews, downloads, ratingAvg, description, ratings, deepDescription,id } = moredetail
+    console.log(moredetail)
+    const handlerBtn = (id) => {
         toast.success(' Successfully Installed!')
         setIsDisable(true)
+        addDataTolocal(id)
+
     }
 
     return (
@@ -44,7 +48,7 @@ const Moredetailsapp = () => {
                             <h2 className='text-[#001931] font-extrabold md:text-4xl text-xl' >{reviews}</h2>
                         </div>
                     </div>
-                    <button onClick={() => handlerBtn()} disabled={isDisable} className={`btn  p-2 mt-7 ml-6 ${isDisable ? 'text-green-700 opacity-80 cursor-not-allowed bg-gray-300' : 'bg-[#00D390] text-white'}`}>{isDisable ? `Installed` : `Install Now (${size}MB)`}</button>
+                    <button onClick={() => handlerBtn(id)} disabled={isDisable} className={`btn  p-2 mt-7 ml-6 ${isDisable ? 'text-green-700 opacity-80 cursor-not-allowed bg-gray-300' : 'bg-[#00D390] text-white'}`}>{isDisable ? `Installed` : `Install Now (${size}MB)`}</button>
 
                 </div>
             </div>

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
 import Singletopapp from '../../Component/Topapp/Singletopapp';
 import Loader from '../Loadpage/Loader';
+import Apperror from './Apperror/Apperror';
 
 
 const Appdetails = () => {
@@ -11,14 +12,14 @@ const Appdetails = () => {
     const [filter, setfilter] = useState([])
     useEffect(() => {
         setLoading(true)
-        const  dalay =setTimeout(() => {
+        const dalay = setTimeout(() => {
             const words = search.trim().toLocaleLowerCase()
             const filterWord = words ? cards.filter(card => card.title.toLocaleLowerCase().includes(words)) : cards
             setfilter(filterWord)
             setLoading(false)
         }, 50);
-        return ()=>clearTimeout(dalay)
-    }, [search])
+        return () => clearTimeout(dalay)
+    }, [search, cards])
 
 
     return (
@@ -48,14 +49,15 @@ const Appdetails = () => {
                     loading ? <Loader></Loader> : ""
                 }
 
-                <div className='grid md:grid-cols-4 grid-cols-1 gap-5 cursor-pointer mt-15' >
-                    {
-                        filter.length <= 0 ? (<div className='flex flex-col justify-center items-center ' >
-                            <p className='text-[#001931] text-5xl text-center font-bold ' >No app found</p>
-                        </div>) : (filter.map(card => <Singletopapp key={card.id} card={card} ></Singletopapp>))
-                    }
+                {
+                    filter.length <= 0 ? <Apperror></Apperror> : <div className='grid md:grid-cols-4 grid-cols-1 gap-5 cursor-pointer mt-15' >
+                        {
+                            (filter.map(card => <Singletopapp key={card.id} card={card} ></Singletopapp>))
+                        }
+                    </div>
+                }
 
-                </div>
+
             </div>
         </>
 
@@ -64,3 +66,4 @@ const Appdetails = () => {
 };
 
 export default Appdetails;
+
