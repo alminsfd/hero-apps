@@ -18,11 +18,12 @@ import Moredetailsapp from "../Pages/Moredeatailsapp/Moredetailsapp";
         },
          {
             path:'/app',
+            loader:()=>fetch('/Allapp.json'),
             Component:Appdetails
          },
          {
             path:'/details/:appid',
-            loader:()=>fetch('/Trendingapp.json'),
+            loader:()=>fetch('/Allapp.json'),
             Component:Moredetailsapp
          },
          {
