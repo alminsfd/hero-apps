@@ -1,16 +1,33 @@
-# React + Vite
+# 🚀 Hero App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive web application built with **React**, featuring dynamic routing, search functionality, data visualization, and localStorage integration for app installation tracking.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Description
 
-## React Compiler
+**Hero App** is a responsive and fully functional web app store built using React and Tailwind CSS.  
+It allows users to explore, search, install, and manage apps — with smooth navigation and real-time interactivity.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|-------------|----------|
+| **React** | Core frontend framework |
+| **React Router** | For page navigation and route management |
+| **Tailwind CSS** | For modern and responsive UI styling |
+| **DaisyUI** | Tailwind-based UI component library |
+| **Recharts** | For data visualization in charts |
+| **React Toastify** | For toast notifications |
+| **LocalStorage API** | For storing installed apps persistently |
+
+---
+
+## 🧩 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hero-app.git
+  
