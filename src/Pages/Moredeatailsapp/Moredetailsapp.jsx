@@ -1,10 +1,10 @@
 import { Download, Star, ThumbsUp } from 'lucide-react';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router';
 import Example from '../../Component/Ratinggraph/Ratings';
 import Description from '../../Component/Describtion/Description';
 import { toast } from 'react-toastify';
-import { addDataTolocal } from '../../localstorage/loacalstorage';
+import { addDataTolocal, getaddcard } from '../../localstorage/loacalstorage';
 
 const Moredetailsapp = () => {
     const [isDisable, setIsDisable] = useState(false)
@@ -12,8 +12,16 @@ const Moredetailsapp = () => {
     const appidNmber = parseInt(appid)
     const dates = useLoaderData()
     const moredetail = dates.find(data => data.id === appidNmber)
-    const { image, companyName, size, reviews, downloads, ratingAvg, description, ratings, deepDescription,id } = moredetail
-    console.log(moredetail)
+    const { image, companyName, size, reviews, downloads, ratingAvg, description, ratings, deepDescription, id } = moredetail
+
+
+    useEffect(() => {
+        const installed = getaddcard();
+        if (installed.includes(id)) {
+            setIsDisable(true);
+        }
+    }, [id]);
+
     const handlerBtn = (id) => {
         toast.success(' Successfully Installed!')
         setIsDisable(true)

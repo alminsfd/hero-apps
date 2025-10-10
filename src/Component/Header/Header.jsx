@@ -37,7 +37,7 @@ const Header = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <Link className='btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white  font-semibold text-lg md:mr-10 ' to='https://github.com/alminsfd'><i className="fa-brands fa-github"></i>Contribute</Link>
+                    <Link className='btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white  font-semibold text-lg md:mr-10 ' target='_blank'  to='https://github.com/alminsfd'><i className="fa-brands fa-github"></i>Contribute</Link>
                 </div>
             </div>
             
