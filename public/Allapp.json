@@ -1,4 +1,6 @@
-[
+
+
+ [
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHQ1tYDFw8In3ArE11fy-HfaGgjkh5fxd_w&s",
     "title": "Facebook",
@@ -8,7 +10,7 @@
     "size": 120,
     "reviews": "9.8M",
     "ratingAvg": 4.5,
-    "downloads": "5B+",
+    "downloads": 5000000000,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 800 },
@@ -16,7 +18,7 @@
       { "name": "4 star", "count": 2700 },
       { "name": "5 star", "count": 4300 }
     ],
-    "deepDescription": "Facebook is one of the world’s most widely used communication apps, designed to make messaging simple, secure, and fast. With end-to-end encryption, your chats and calls are protected from unauthorized access. It supports text, images, documents, voice notes, and video calls. You can also create groups, set statuses, and join communities to stay connected. Facebook Web allows access from your computer, ensuring smooth communication across devices. Whether for personal, educational, or business use, Facebook keeps billions of people in touch every day in a private, reliable, and efficient way."
+    "deepDescription": "Facebook is one of the world's most widely used communication apps, designed to make messaging simple, secure, and fast. With end-to-end encryption, your chats and calls are protected from unauthorized access. It supports text, images, documents, voice notes, and video calls. You can also create groups, set statuses, and join communities to stay connected. Facebook Web allows access from your computer, ensuring smooth communication across devices. Whether for personal, educational, or business use, Facebook keeps billions of people in touch every day in a private, reliable, and efficient way."
   },
   {
     "image": "https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid&w=740&q=80",
@@ -27,7 +29,7 @@
     "size": 90,
     "reviews": "8.6M",
     "ratingAvg": 4.6,
-    "downloads": "4B+",
+    "downloads": 4000000000,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 700 },
@@ -46,7 +48,7 @@
     "size": 75,
     "reviews": "9.1M",
     "ratingAvg": 4.7,
-    "downloads": "3.5B+",
+    "downloads": 3500000000,
     "ratings": [
       { "name": "1 star", "count": 350 },
       { "name": "2 star", "count": 600 },
@@ -54,7 +56,7 @@
       { "name": "4 star", "count": 2300 },
       { "name": "5 star", "count": 4650 }
     ],
-    "deepDescription": "TikTok is a short-form video platform that empowers creativity and self-expression through engaging content. Users can create, edit, and share videos with filters, effects, and trending music. The app’s intelligent algorithm curates a personalized feed based on individual interests, making every scroll fresh and exciting. From comedy and dance to education and art, TikTok hosts a wide variety of content. It has also become a global hub for influencers and brands to connect with audiences. With its dynamic community and endless trends, TikTok defines the new era of digital entertainment."
+    "deepDescription": "TikTok is a short-form video platform that empowers creativity and self-expression through engaging content. Users can create, edit, and share videos with filters, effects, and trending music. The app's intelligent algorithm curates a personalized feed based on individual interests, making every scroll fresh and exciting. From comedy and dance to education and art, TikTok hosts a wide variety of content. It has also become a global hub for influencers and brands to connect with audiences. With its dynamic community and endless trends, TikTok defines the new era of digital entertainment."
   },
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-X06O3ppyMhQotOP_Km27fpwe0FgZGqXiA&s",
@@ -65,7 +67,7 @@
     "size": 70,
     "reviews": "7.2M",
     "ratingAvg": 4.4,
-    "downloads": "2B+",
+    "downloads": 2000000000,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 700 },
@@ -73,7 +75,7 @@
       { "name": "4 star", "count": 2100 },
       { "name": "5 star", "count": 2700 }
     ],
-    "deepDescription": "X, formerly known as Twitter, is a microblogging platform built for real-time information sharing and conversation. Users post short updates, share media, and interact through replies, reposts, and hashtags. It’s a space where global discussions unfold—from breaking news to entertainment, sports, and politics. Journalists, leaders, and everyday users use X to express opinions and engage with the world instantly. The app’s live feed and trending topics make it one of the fastest ways to stay informed. X continues to redefine modern communication through open dialogue and freedom of expression."
+    "deepDescription": "X, formerly known as Twitter, is a microblogging platform built for real-time information sharing and conversation. Users post short updates, share media, and interact through replies, reposts, and hashtags. It's a space where global discussions unfold—from breaking news to entertainment, sports, and politics. Journalists, leaders, and everyday users use X to express opinions and engage with the world instantly. The app's live feed and trending topics make it one of the fastest ways to stay informed. X continues to redefine modern communication through open dialogue and freedom of expression."
   },
   {
     "image": "https://images.indianexpress.com/2023/05/youtube-logo-featured.jpg",
@@ -84,7 +86,7 @@
     "size": 150,
     "reviews": "10.5M",
     "ratingAvg": 4.8,
-    "downloads": "10B+",
+    "downloads": 10000000000,
     "ratings": [
       { "name": "1 star", "count": 600 },
       { "name": "2 star", "count": 800 },
@@ -92,7 +94,7 @@
       { "name": "4 star", "count": 2600 },
       { "name": "5 star", "count": 5100 }
     ],
-    "deepDescription": "YouTube is the world’s largest video-sharing platform where anyone can upload, watch, and share content for free. From music and gaming to tutorials and news, it offers endless entertainment and education. Creators can monetize channels through ads and memberships, building global audiences. With personalized recommendations, users always find videos matching their interests. YouTube Premium adds ad-free viewing and offline playback. The platform has transformed how people learn, entertain, and communicate. It’s not just a video site—it’s a community that connects billions of viewers and creators worldwide every day."
+    "deepDescription": "YouTube is the world's largest video-sharing platform where anyone can upload, watch, and share content for free. From music and gaming to tutorials and news, it offers endless entertainment and education. Creators can monetize channels through ads and memberships, building global audiences. With personalized recommendations, users always find videos matching their interests. YouTube Premium adds ad-free viewing and offline playback. The platform has transformed how people learn, entertain, and communicate. It's not just a video site—it's a community that connects billions of viewers and creators worldwide every day."
   },
   {
     "image": "https://www.accountex.co.uk/london/wp-content/uploads/sites/2/2024/03/dima-solomin-upBKRmHJrCI-unsplash-2048x1365.jpg",
@@ -103,7 +105,7 @@
     "size": 60,
     "reviews": "9.5M",
     "ratingAvg": 4.7,
-    "downloads": "5B+",
+    "downloads": 5000000000,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 600 },
@@ -122,7 +124,7 @@
     "size": 85,
     "reviews": "6.2M",
     "ratingAvg": 4.3,
-    "downloads": "2.5B+",
+    "downloads": 2500000000,
     "ratings": [
       { "name": "1 star", "count": 450 },
       { "name": "2 star", "count": 700 },
@@ -130,7 +132,7 @@
       { "name": "4 star", "count": 1800 },
       { "name": "5 star", "count": 2150 }
     ],
-    "deepDescription": "Snapchat is a multimedia messaging app focused on real-time communication and fun. Users can send photos and videos that disappear after being viewed, encouraging spontaneous sharing. With Stories, Bitmoji, and AR filters, Snapchat brings creativity into daily life. The app also includes Snap Map to locate friends and Discover for trending news. Snap Streaks reward daily interaction, making it engaging for younger audiences. It has evolved beyond messaging into a visual storytelling platform that mixes entertainment, privacy, and innovation, redefining how people connect in today’s fast-paced digital world."
+    "deepDescription": "Snapchat is a multimedia messaging app focused on real-time communication and fun. Users can send photos and videos that disappear after being viewed, encouraging spontaneous sharing. With Stories, Bitmoji, and AR filters, Snapchat brings creativity into daily life. The app also includes Snap Map to locate friends and Discover for trending news. Snap Streaks reward daily interaction, making it engaging for younger audiences. It has evolved beyond messaging into a visual storytelling platform that mixes entertainment, privacy, and innovation, redefining how people connect in today's fast-paced digital world."
   },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?20140125013055",
@@ -141,7 +143,7 @@
     "size": 95,
     "reviews": "5.4M",
     "ratingAvg": 4.5,
-    "downloads": "1B+",
+    "downloads": 1000000,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 500 },
@@ -149,9 +151,9 @@
       { "name": "4 star", "count": 1800 },
       { "name": "5 star", "count": 1900 }
     ],
-    "deepDescription": "LinkedIn is the world’s leading professional networking platform where users connect with colleagues, employers, and industry experts. It enables career growth through job searching, skill development, and content sharing. Businesses use LinkedIn to recruit talent and promote their brand. The platform encourages professionals to showcase achievements, publish articles, and build reputations. LinkedIn Learning offers courses for personal and professional improvement. Whether you’re a student, freelancer, or CEO, LinkedIn helps you expand your opportunities and stay updated with global industry trends, making it an essential tool for career success."
+    "deepDescription": "LinkedIn is the world's leading professional networking platform where users connect with colleagues, employers, and industry experts. It enables career growth through job searching, skill development, and content sharing. Businesses use LinkedIn to recruit talent and promote their brand. The platform encourages professionals to showcase achievements, publish articles, and build reputations. LinkedIn Learning offers courses for personal and professional improvement. Whether you're a student, freelancer, or CEO, LinkedIn helps you expand your opportunities and stay updated with global industry trends, making it an essential tool for career success."
   },
-   {
+  {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOuN0Rg6fsiMGejH3ZwugntvW5VS2Imd2Ag&s",
     "title": "DesignHub",
     "companyName": "CreativeBits",
@@ -160,7 +162,7 @@
     "size": 80,
     "reviews": "1.5M",
     "ratingAvg": 4.5,
-    "downloads": "750K",
+    "downloads": 750000,
     "ratings": [
       { "name": "1 star", "count": 60 },
       { "name": "2 star", "count": 90 },
@@ -179,7 +181,7 @@
     "size": 100,
     "reviews": "2.6M",
     "ratingAvg": 4.2,
-    "downloads": "1.7M",
+    "downloads": 1700000,
     "ratings": [
       { "name": "1 star", "count": 180 },
       { "name": "2 star", "count": 250 },
@@ -198,7 +200,7 @@
     "size": 30,
     "reviews": "900K",
     "ratingAvg": 4.1,
-    "downloads": "350K",
+    "downloads": 350000,
     "ratings": [
       { "name": "1 star", "count": 60 },
       { "name": "2 star", "count": 90 },
@@ -206,7 +208,7 @@
       { "name": "4 star", "count": 300 },
       { "name": "5 star", "count": 250 }
     ],
-    "deepDescription": "WeatherNow is a reliable weather application providing real-time updates, forecasts, and alerts. Users can check current conditions, hourly and daily forecasts, temperature, humidity, wind speed, and precipitation. Severe weather warnings keep people prepared and safe. The app’s interactive maps and radar provide visual insight into weather patterns. It also includes customizable notifications, allowing users to receive alerts relevant to their location. WeatherNow combines accuracy, simplicity, and speed, making it a go-to tool for individuals, travelers, and outdoor enthusiasts to plan their day effectively and stay informed about changing weather conditions."
+    "deepDescription": "WeatherNow is a reliable weather application providing real-time updates, forecasts, and alerts. Users can check current conditions, hourly and daily forecasts, temperature, humidity, wind speed, and precipitation. Severe weather warnings keep people prepared and safe. The app's interactive maps and radar provide visual insight into weather patterns. It also includes customizable notifications, allowing users to receive alerts relevant to their location. WeatherNow combines accuracy, simplicity, and speed, making it a go-to tool for individuals, travelers, and outdoor enthusiasts to plan their day effectively and stay informed about changing weather conditions."
   },
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3ksiqaMZzKmnXG4XbbIZG_cqzs9EM5IgVw&s",
@@ -217,7 +219,7 @@
     "size": 70,
     "reviews": "1.8M",
     "ratingAvg": 4.7,
-    "downloads": "890K",
+    "downloads": 890000,
     "ratings": [
       { "name": "1 star", "count": 40 },
       { "name": "2 star", "count": 60 },
@@ -236,7 +238,7 @@
     "size": 90,
     "reviews": "2.5M",
     "ratingAvg": 4.4,
-    "downloads": "1.3M",
+    "downloads": 1300000,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 140 },
@@ -255,7 +257,7 @@
     "size": 55,
     "reviews": "2.9M",
     "ratingAvg": 4.8,
-    "downloads": "1.1M",
+    "downloads": 1100000,
     "ratings": [
       { "name": "1 star", "count": 30 },
       { "name": "2 star", "count": 50 },
@@ -263,10 +265,10 @@
       { "name": "4 star", "count": 400 },
       { "name": "5 star", "count": 2270 }
     ],
-    "deepDescription": "MindEase is a meditation and mindfulness application designed to reduce stress, improve sleep, and enhance mental wellbeing. It offers guided meditations, breathing exercises, sleep stories, and relaxation music. Users can track their progress, set daily reminders, and personalize sessions based on goals and experience level. The app helps users manage anxiety, improve focus, and cultivate a calmer mindset. MindEase’s interface is simple and calming, encouraging daily mindfulness practices. With expert guidance and evidence-based techniques, MindEase provides a holistic approach to mental health, helping users lead a balanced and more peaceful life."
+    "deepDescription": "MindEase is a meditation and mindfulness application designed to reduce stress, improve sleep, and enhance mental wellbeing. It offers guided meditations, breathing exercises, sleep stories, and relaxation music. Users can track their progress, set daily reminders, and personalize sessions based on goals and experience level. The app helps users manage anxiety, improve focus, and cultivate a calmer mindset. MindEase's interface is simple and calming, encouraging daily mindfulness practices. With expert guidance and evidence-based techniques, MindEase provides a holistic approach to mental health, helping users lead a balanced and more peaceful life."
   },
   {
-    "image": "https://play-lh.googleusercontent.com/UxIJEGNjCqIyT0G6juqFUyEv7PcIildbwJSkDzZ77IkoR-oYdDyqVjfAg6CJwUEletw=w240-h480-rw",
+    "image": "https://democracylab-marlok.s3.amazonaws.com/thumbnails%2Fs.mathe3107%40gmail.com%2FnewFile.jpeg_1712584408.9970863.jpeg",
     "title": "Shopmart",
     "companyName": "DealZone",
     "id": 15,
@@ -274,7 +276,7 @@
     "size": 75,
     "reviews": "2.2M",
     "ratingAvg": 4.3,
-    "downloads": "1M",
+    "downloads": 1000000,
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 150 },
@@ -282,7 +284,7 @@
       { "name": "4 star", "count": 700 },
       { "name": "5 star", "count": 930 }
     ],
-    "deepDescription": "ShopSmart is a convenient shopping app that helps users find the best deals, coupons, and price comparisons online. It tracks products across multiple retailers, alerts users to discounts, and provides reviews to inform purchasing decisions. Personalized recommendations enhance the shopping experience by highlighting deals based on preferences. The app simplifies budget management and saves time by consolidating shopping information in one place. ShopSmart’s user-friendly interface ensures smooth browsing and checkout, making it an essential tool for online shoppers seeking value, efficiency, and convenience in their digital shopping experience."
+    "deepDescription": "ShopSmart is a convenient shopping app that helps users find the best deals, coupons, and price comparisons online. It tracks products across multiple retailers, alerts users to discounts, and provides reviews to inform purchasing decisions. Personalized recommendations enhance the shopping experience by highlighting deals based on preferences. The app simplifies budget management and saves time by consolidating shopping information in one place. ShopSmart's user-friendly interface ensures smooth browsing and checkout, making it an essential tool for online shoppers seeking value, efficiency, and convenience in their digital shopping experience."
   },
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4E-QyM5E_GDGuPL9YvjN6MPeFk78sM9DS0w&s",
@@ -293,7 +295,7 @@
     "size": 40,
     "reviews": "1.6M",
     "ratingAvg": 4.2,
-    "downloads": "670K",
+    "downloads": 670000,
     "ratings": [
       { "name": "1 star", "count": 80 },
       { "name": "2 star", "count": 100 },
@@ -303,7 +305,4 @@
     ],
     "deepDescription": "NewsPulse is a comprehensive news application that delivers personalized alerts and trending stories from around the world. Users can access breaking news, local updates"
   }
-
 ]
-
- 
