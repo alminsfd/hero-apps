@@ -33,4 +33,6 @@ It allows users to explore, search, install, and manage apps — with smooth nav
 1. Clone the repository:
    ```bash
    git clone https://github.com/alminsfd/hero-apps.git
+   npm install
+   npm run dev
   
